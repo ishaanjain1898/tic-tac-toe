@@ -19,7 +19,7 @@ winner = None
 #game board
 board=[ "-", "-", "-", 
         "-", "-", "-", 
-        "-", "-", "-",]
+        "-", "-", "-"	]
 
 
 #display board
